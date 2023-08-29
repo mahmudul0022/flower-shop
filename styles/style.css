@@ -140,3 +140,51 @@
     padding-bottom: 87px;
     margin-bottom: 128px;
 }
+
+/* offer section styles */
+#offer{
+    display: flex;
+    border-radius: 8px;
+background: rgba(229, 84, 115, 0.05);
+max-width: 1920px;
+
+    /* text-align: center; */
+    align-items: center;
+    justify-content: space-around;
+   
+.offer-section{
+    text-align: center;
+}
+
+
+}
+.offer-heading{
+    color: #272727;
+font-size: 40px;
+font-weight: 800;
+margin-bottom: 24px;
+}
+span{
+    color: #E55473;
+font-size: 40px;
+font-weight: 800;
+}
+.offer-description{
+    color: rgba(39, 39, 39, 0.60);
+font-size: 18px;
+font-weight: 400;
+margin-bottom: 32px;
+
+
+}
+.btn-a{
+    padding: 20px 43px;
+    border-radius: 8px;
+    background: #E55473;
+    border: none;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 32px;
+    
+}
