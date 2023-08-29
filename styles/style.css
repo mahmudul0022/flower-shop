@@ -114,3 +114,29 @@
     margin-right: 250px;
 
 }
+
+/* service section styles */
+
+#service {
+    display: flex;
+    /* text-align: center; */
+    justify-content: space-around;
+    /* padding: 86px 175px 87px; */
+    margin: 86px 175px 87px;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+}
+
+/* .delivery-man .flower-1  .customer-service  "," must be added */
+.delivery-man,
+.flower-1,
+.customer-service {
+    padding-top: 86px;
+}
+
+.dmd,
+.f1-d,
+.csd {
+    padding-bottom: 87px;
+    margin-bottom: 128px;
+}
